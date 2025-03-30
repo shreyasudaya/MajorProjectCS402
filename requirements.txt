@@ -1,0 +1,8 @@
+#pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+tqdm
+transformers
+diffusers
+accelerate
+bitsandbytes
+pillow
+numpy
